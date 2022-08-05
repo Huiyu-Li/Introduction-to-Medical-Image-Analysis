@@ -4,7 +4,7 @@ This repository contains several interesting jupyter notebooks which can guide y
 
 # Contents
 
-## [Image Filtering and Segmentation](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Filtering%20and%20Segmentation/Image%20Filtering%20and%20Segmentation.ipynb)
+## [Image Filtering](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Filtering%20and%20Segmentation/Image%20Filtering%20and%20Segmentation.ipynb)
 1. Load Images in NIfTI Format
 2. Visualization Volumetric Images in Python
 3. Interpolation
