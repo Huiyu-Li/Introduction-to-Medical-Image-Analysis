@@ -5,40 +5,25 @@ This repository contains several interesting jupyter notebooks which can guide y
 # Contents
 
 ## [Image Filtering and Segmentation](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Filtering%20and%20Segmentation/Image%20Filtering%20and%20Segmentation.ipynb)
-Load Images in NIfTI Format
-
-Visualization Volumetric Images in Python
-
-Interpolation
-
-Separable Convolution Filters
-
-Non Linear Separable Filter
-
-Non Linear Non Separable Filters
-
-Recursive Filters
-
-Smoothing Filters
-
-Gradient Filters
-
-Image Contour Extraction
-
-Mathematical Morphology
-
-Distance Maps
-
-Fast Marching
+1. Load Images in NIfTI Format
+2. Visualization Volumetric Images in Python
+3. Interpolation
+4. Separable Convolution Filters
+5. Non Linear Separable Filter
+6. Non Linear Non Separable Filters
+7. Recursive Filters
+8. Smoothing Filters
+9. Gradient Filters
+10. Image Contour Extraction
+11. Mathematical Morphology
+12. Distance Maps
+13. Fast Marching
 
 ## Image Segmentation
-[Validation of Segmentation Algorithms](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/Validation%20of%20segmentation%20algorithms.ipynb)
-
-[GMM Brain Segmentation](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/GMM%20Brain%20Segmentation.ipynb)
-
-[GMM Brain Segmentation with Bias Field Correction](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/GMM%20Brain%20Segmentation%20with%20Bias%20Field%20Correction.ipynb)
-
-[K-means Brain Segmentation](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/K-means%20Brain%20Segmentation.ipynb)
+1.[Validation of Segmentation Algorithms](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/Validation%20of%20segmentation%20algorithms.ipynb)
+2.[GMM Brain Segmentation](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/GMM%20Brain%20Segmentation.ipynb)
+3.[GMM Brain Segmentation with Bias Field Correction](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/GMM%20Brain%20Segmentation%20with%20Bias%20Field%20Correction.ipynb)
+4.[K-means Brain Segmentation](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/K-means%20Brain%20Segmentation.ipynb)
 
 # How to use?
 ## Using a Python virtual environment
