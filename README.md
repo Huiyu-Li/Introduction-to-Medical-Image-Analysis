@@ -26,6 +26,8 @@ This repository contains several interesting jupyter notebooks which can guide y
 4. [K-means Brain Segmentation](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/K-means%20Brain%20Segmentation.ipynb)
 
 # How to use?
+Requirments: Python3.5+
+
 ## Using a Python virtual environment
 We recommend using a Python virtual environment, but that of course, is up to you. 
 ### create a Python virtual environment
