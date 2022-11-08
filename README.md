@@ -25,6 +25,17 @@ This repository contains several interesting jupyter notebooks which can guide y
 3. [GMM Brain Segmentation with Bias Field Correction](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/GMM%20Brain%20Segmentation%20with%20Bias%20Field%20Correction.ipynb)
 4. [K-means Brain Segmentation](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Image%20Segmentation/K-means%20Brain%20Segmentation.ipynb)
 
+## Image Segmentation with Shape Constraint
+- segmentation from scribbles:
+1. [GrabCut Segmentation for Brain images](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/%20Image%20Segmentation%20with%20Shape%20Constraint/GrabCut%20Segmentation.ipynb)
+2. [Random walker Segmentation for Brain images](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/%20Image%20Segmentation%20with%20Shape%20Constraint/Random%20Walk%20Segmentation.ipynb)
+
+- segmentation with contour regularity:
+1. [Level Set Segmentation for Brain images](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/%20Image%20Segmentation%20with%20Shape%20Constraint/Level%20Set%20Segmentation.ipynb)
+2. [Snakes Segmentation for Brain images](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/%20Image%20Segmentation%20with%20Shape%20Constraint/Snakes%20Segmentation.ipynb)
+
+## [Point Distribution Model](https://github.com/Huiyu-Li/Introduction-to-Medical-Image-Analysis/blob/main/Point%20Distribution%20Model/Point%20Distribution%20Model.ipynb)
+
 # How to use?
 Requirments: Python3.5+
 
